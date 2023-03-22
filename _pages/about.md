@@ -10,7 +10,7 @@ redirect_from:
 
 
 ## About me
-I am Alireza Arbabi, motivated computer engineering student at the [Department of ECE](https://ece.ut.ac.ir/en/ece) at [University of Tehran](https://ut.ac.ir/en) with GPA of 3.8/4. Eageness to learn more and more everyday, with deep understanding of programming, mathematics and hardaware design. Several years of involvement in software and computing challenges have grown me an ability to design, analyze and resolve sophisticated problems, from project design to completion.
+I am Alireza Arbabi, motivated computer engineering student at the [Department of ECE](https://ece.ut.ac.ir/en/ece) at the [University of Tehran](https://ut.ac.ir/en) with GPA of 3.8/4. Eagerness to learn more and more every day, with deep understanding of programming, mathematics, and hardware design. Several years of involvement in software and computing challenges have grown me the ability to design, analyze and resolve sophisticated problems, from project design to completion.
 
 ## Research interests
 
