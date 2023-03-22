@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Alireza Arbabi"
-  avatar           : "profile.png"
+  avatar           : #"profile.png"
   bio              : "Computer Engineering B.Sc. at the University of Tehran"
   location         : "Tehran, Iran"
   employer         :
