@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "RPoA: Redefined Proof of Activity"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2022-10-17-RPoA
+excerpt: 'We propose RPoA, a new consensus protocol that builds on top of some of the best features of the previous protocols, such as PoW, PoS, and PoA, and values active service provided by users on the network. While PoA tried to address some of the issues pertinent to PoS and PoW, it still fell short of solving the issues regarding high energy consumption, high resources needed, high mining latency, and the requirement for private blockchains. Our approach tries to address all the mentioned issues and falls in the service-based protocols category that gives mining credit to users as they serve on the network.'
+date: 2022-10-17
+venue: 'Arxiv'
+paperurl: 'https://arxiv.org/pdf/2210.08923'
+citation: 'S. Kamali, S. Shabihi, T. Fakharian, A. Arbabi, P. Tajmehrabi, M. Saadati, B. Bahrak (2022). &quot;RPoA: Redefined Proof of Activity.&quot; <i>Arxiv</i>.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+We propose RPoA, a new consensus protocol that builds on top of some of the best features of the previous protocols, such as PoW, PoS, and PoA, and values active service provided by users on the network. While PoA tried to address some of the issues pertinent to PoS and PoW, it still fell short of solving the issues regarding high energy consumption, high resources needed, high mining latency, and the requirement for private blockchains. Our approach tries to address all the mentioned issues and falls in the service-based protocols category that gives mining credit to users as they serve on the network.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://arxiv.org/pdf/2210.08923)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+<!-- Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3). -->
