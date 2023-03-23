@@ -17,4 +17,4 @@ I am Alireza Arbabi, motivated computer engineering student at the [Department o
 My research mainly focuses on blockchain technology, which aims to develop advanced consensus protocols to make more practical and efficient decentralized systems based on blockchain technology. I have been actively working on fraud detection in cryptocurrencies, by analyzing the transaction graph using social network and graph theory methods. Today I am interested in different topics in cryptocurrencies and blockchain technology, cryptography, and computer networks.
 
 ## News
-- Nov 2022: our paper "RPoA: Redefined Proof of Activity" submitted to the ICBC conference.
+- Nov 2022: Our paper "RPoA: Redefined Proof of Activity" submitted to the ICBC conference.
