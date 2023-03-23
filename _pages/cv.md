@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-To Download my latest CV, click [here](/files/Arbabi-CV.pdf)
+To download my latest CV, click [here](/files/Arbabi-CV.pdf).
