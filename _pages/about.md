@@ -25,7 +25,7 @@ cryptocurrency for storing files (Blockchain-based Decentralized file sharing sy
 
 ## Teaching
 
-During the summer 2023, me and [AmirPasha Motamed](https://github.com/aamirpashaa) instructed the **Blockchain & Web3** course at the [University of Tehran ACM Chapter](https://ut-acm.ir/). Lectures, slides, and course syllabus of our course are available [here](https://drive.google.com/drive/u/0/folders/1iHDbupD091NBzgU5VDBhY4xBb2VC4mFq). Also, the designed computer assignments of this course can be accessed through the [link](https://github.com/UT-ACM-Student-Chapter/Blockchain-SoC-Projects/tree/main) at GitHub.
+During the summer 2023, me and [AmirPasha Motamed](https://github.com/aamirpashaa) instructed the **Blockchain & Web3** course at the [University of Tehran ACM Chapter](https://ut-acm.ir/). Lectures, slides, and course syllabus are available [here](https://drive.google.com/drive/u/0/folders/1iHDbupD091NBzgU5VDBhY4xBb2VC4mFq). Also, the designed computer assignments of this course can be accessed through this [link](https://github.com/UT-ACM-Student-Chapter/Blockchain-SoC-Projects/tree/main) at GitHub.
 
 ## News
 - April 2023: Our paper "RPoA: Redefined Proof of Activity" submitted to the IET Blockchain journal.
