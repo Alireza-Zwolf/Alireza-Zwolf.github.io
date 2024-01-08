@@ -6,7 +6,7 @@ excerpt: 'This manuscript presents an exhaustive review of blockchain-based mixi
 date: 2023-10-7
 venue: 'Arxiv'
 
-paperurl: '[https://arxiv.org/abs/2310.04899](https://arxiv.org/abs/2310.04899)'
+paperurl: 'https://arxiv.org/abs/2310.04899'
 citation: 'Alireza Arbabi, Ardeshir Shojaeinasab, Behnam Bahrak, Homayoun Najjaran (2023). &quot;Mixing Solutions in Bitcoin and Ethereum Ecosystems: A Review and Tutorial; <i>Arxiv</i>.'
 
 ---
