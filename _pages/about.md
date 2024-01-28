@@ -10,7 +10,7 @@ redirect_from:
 
 
 ## About Me
-I am Alireza Arbabi, computer engineering B.Sc. student at the [Department of ECE](https://ece.ut.ac.ir/en/ece) at the [University of Tehran](https://ut.ac.ir/en) with GPA of 3.82/4. From summer 2023, I started to work as a research assistant at the [ACIS Lab](https://www.uvic.ca/research/labs/acis/index.php) at the [University of Victoria](https://www.uvic.ca/). My daily routine consists of swimming, exploring artworks (especially music and paintings), and topics related to programming, mathematics, and researching.
+I am Alireza Arbabi, computer engineering B.Sc. student at the [Department of ECE](https://ece.ut.ac.ir/en/ece) at the [University of Tehran](https://ut.ac.ir/en). From summer 2023, I started to work as a research assistant at the [ACIS Lab](https://www.uvic.ca/research/labs/acis/index.php) at the [University of Victoria](https://www.uvic.ca/). My daily routine consists of swimming, exploring artworks (especially music and paintings), and topics related to programming, mathematics, and researching.
 
 
 ## Research Interest
