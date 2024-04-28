@@ -15,7 +15,7 @@ I am Alireza Arbabi, computer engineering B.Sc. student at the [Department of EC
 
 ## Research Interest
 
-My research interest mainly focuses on various aspects of security and cryptography. The question that I'm enthusiastic to answer is how to leverage cryptography to make our systems more secure, from blockchain technology to artificial intelligence, and computer networks.
+
 Until now, I've collaborated in 2 research activities as follows:
 - **Evaluating mixing services in cryptocurrencies**: Our research focuses on investigating the obstacles and constraints within existing cryptocurrency mixing services. We analyze a range of mixers, including traditional ones in bitcoin and advanced ZKP-based mixers, as well as secure coins. The
 objective is to assess the capabilities of each mixer and determine the most effective method for achieving anonymous mixing.
